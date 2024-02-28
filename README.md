@@ -1,5 +1,5 @@
 # Natural Language Processing with Hugging Face Transformers
-
+![Natural Language Processing with Hugging Face Transformers](https://curator-production.s3.us.cloud-object-storage.appdomain.cloud/uploads/md5-e3a9f8202bcd6edd2258754c027a9903-course_card.png)
 ## Welcome to the World of Prompt Engineering!
 
 Welcome to the fascinating world of "Natural Language Processing with Hugging Face Transformers"! Here, we embark on an exciting journey into the realm of prompt engineering, exploring the power of Hugging Face Transformers to transform raw text into meaningful insights.
@@ -13,7 +13,7 @@ Welcome to the fascinating world of "Natural Language Processing with Hugging Fa
 
 ## Unraveling the Mystery
 
-Dive deep into this repository, where secrets of prompt engineering are unveiled. Join us in deciphering the language of machines and harnessing its potential to enhance natural language processing tasks.
+Dive deep into this repository, where secrets of prompt engineering are unveiled. Join us in deciphering the language of machines and harnessing its potential to enhance natural language processing tasks. Asyaaaappp
 
 ## Technology at Your Fingertips
 
