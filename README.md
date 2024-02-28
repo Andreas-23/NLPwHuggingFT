@@ -1,4 +1,3 @@
-```markdown
 # Natural Language Processing with Hugging Face Transformers
 
 ## Welcome to the World of Prompt Engineering!
