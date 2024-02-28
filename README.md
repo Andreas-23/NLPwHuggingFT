@@ -1,5 +1,8 @@
 # Natural Language Processing with Hugging Face Transformers
-![Natural Language Processing with Hugging Face Transformers](https://www.datanami.com/wp-content/uploads/2023/08/ibm-hugging-face-300x222.png)
+<p align="center">
+  <img src="https://www.datanami.com/wp-content/uploads/2023/08/ibm-hugging-face-300x222.png" alt="Natural Language Processing with Hugging Face Transformers">
+</p>
+
 ## Welcome to the World of Prompt Engineering!
 
 Welcome to the fascinating world of "Natural Language Processing with Hugging Face Transformers"! Here, we embark on an exciting journey into the realm of prompt engineering, exploring the power of Hugging Face Transformers to transform raw text into meaningful insights.
